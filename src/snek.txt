@@ -1,0 +1,34 @@
+// © , →
+
+snek()
+Prgm
+
+©add sneknum
+sneknum+1→sneknum
+
+©local declarations
+Local body, hx, hy, bodyh, bodyt, tail, bn, dx, dy, k, ax, ay, sneklen
+
+1→bodyh
+2→bodyt
+1→dx
+0→dy
+3→sneklen
+
+©setup io
+ClrDraw
+XorPix snekbrd
+
+©init body
+newMat(100, 2)→body
+©set head
+snekst[1]→body[bodyh, 1]
+snekst[2]→body[bodyh, 2]
+©draw head
+snekdraw(snekst[1], snekst[2], 1)
+
+©sset apple
+rand(10)→ax
+rand(10)→ay
+©draw apple 
+snekapdr(ax, ay, 1)
