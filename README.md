@@ -19,4 +19,4 @@ In order to play this game on your TI-89 series calculator, you must have the fo
 Also, for the best graphics, make sure that you have axes turned off.
 
 ### Stats
-This game is written in [TI-BASIC](https://en.wikipedia.org/wiki/TI-BASIC), and is about 120 lines of code overall. I created it over the course of ~3 1/2 hours of work. I've been creating games on the TI-89 for about a year.
+This game is written in [TI-BASIC](https://en.wikipedia.org/wiki/TI-BASIC), and is about 120 lines of code overall. I created it over the course of ~3 1/2 hours of work and used the in-calculator program editor (a clip of it to download [here](./examples/Snek-Code-Example.mp4)). I've been creating games on the TI-89 for about a year.
