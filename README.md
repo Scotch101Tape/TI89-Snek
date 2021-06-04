@@ -14,3 +14,6 @@ In order to play this game on your TI-89 series calculator, you must have the fo
  - A number variable named **snekhigh** (this will record the high score)
  - A number variable named **sneknum** (this will record how many times it is played)
  - A 2 element list of numbers named **snekst** (this is the start position of the snake)
+
+### Stats
+This game is written in [TI-BASIC](https://en.wikipedia.org/wiki/TI-BASIC), and is about 120 lines of code overall. I created it over the course of ~3 1/2 hours of work. I've been creating games on the TI-89 for about a year (June 2021).
