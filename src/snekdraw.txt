@@ -1,0 +1,4 @@
+snekdraw(x, y, t)
+Prgm
+PxlCrcl 6 * x + x, 6 * y + y, 3, t
+EndPrgm
