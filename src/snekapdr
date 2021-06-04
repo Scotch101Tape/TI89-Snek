@@ -1,0 +1,4 @@
+snekapdr(x, y, m)
+Prgm
+PxlCrcl 6 * x + x, 6 * y + y, 1, m
+EndPrgm
