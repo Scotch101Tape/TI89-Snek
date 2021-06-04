@@ -1,0 +1,4 @@
+snekclde(x, y)
+Func
+Return pxlTest(6 * x + x + 3, 6 * y + y)
+EndFunc
